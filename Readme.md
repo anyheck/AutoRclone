@@ -77,7 +77,7 @@ We use Google Groups to manager our service accounts considering the
 [Official limits to the members of Team Drive](https://support.google.com/a/answer/7338880?hl=en) (Limit for individuals and groups directly added as members: 600).
 
 #### For GSuite Admin
-1. Turn on the Directory API `Admin SDK` following [official steps](https://developers.google.com/admin-sdk/directory/v1/quickstart/python) (save the generated json file to folder `credentials`).
+1. Turn on the Directory API, `Admin SDK`, following [official steps](https://developers.google.com/admin-sdk/directory/v1/quickstart/python) (save the generated json file to folder `credentials`).
 
 2. Create group for your organization [in the Admin console](https://support.google.com/a/answer/33343?hl=en). After create a group, you will have an address for example`sa@yourdomain.com`.
 
